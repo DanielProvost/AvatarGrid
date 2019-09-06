@@ -1,0 +1,12 @@
+body{
+    width: 900px;
+    margin:0 auto;
+}
+
+svg{
+    width: 300px;
+    margin-left: 300px;
+}
+h1{
+    text-align:center;
+}
